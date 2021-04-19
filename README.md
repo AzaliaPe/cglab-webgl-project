@@ -1,1 +1,1 @@
-# cglab-webgl-project
+# webgl-project
