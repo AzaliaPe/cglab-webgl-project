@@ -1,7 +1,7 @@
 const canvas = document.getElementById('glcanvas');
 const gl = canvas.getContext('webgl2');
 
-//Cleen Screen
+//Clean Screen
 
 gl.clearColor(0, 0, 0, 1);
 gl.clear(gl.COLOR_BUFFER_BIT);
